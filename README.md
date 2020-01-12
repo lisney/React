@@ -1,3 +1,6 @@
+##React Management
+본 프로젝트는 리액트 공부하기위해 만들어보는 것입니다.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
